@@ -14,7 +14,7 @@ A full-stack blog application built with **React** (frontend) and **Appwrite** (
 
 - **Frontend:** React, Vite
 - **Backend:** Appwrite (Auth, Database, Storage)
-- **Styling:** CSS / Tailwind (update based on what you're using)
+- **Styling:** CSS / Tailwind (update based on what you are using)
 
 ## 🚀 Getting Started
 
